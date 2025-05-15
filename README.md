@@ -53,3 +53,11 @@ Instale via **Sketch > Incluir Biblioteca > Gerenciar Bibliotecas**:
 - `Adafruit BusIO` (dependência)
 - `WiFi` e `WebServer` (já inclusas com ESP32)
 
+## PROXIMOS PASSOS
+- `Use um broker MQTT como Mosquitto`
+- `O ESP32 publica os dados dos sensores em tópicos como estacao/temperatura.`
+- `Conectar módulos LoRa SX1278 em dois ESP32.`
+- `Crie um servidor Linux Ubuntu com Apache, MySQL e PHP em uma instância EC2.`
+- `Use Prometheus para coletar métricas dos sensores.`
+
+
